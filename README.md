@@ -12,8 +12,8 @@ Theme based on Flat Remix Icon Theme by: Daniel Ruiz de Alegría <daniruizdealeg
 Theme licensed licensed under the GNU General Public License v3.0.
 
 https://www.opendesktop.org/p/1259356/
-![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s1.png)
-![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s4.png)
-![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s2.png)
-![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s5.png)
-![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s3.png)
+![alt text](https://github.com/OguzhanDUYAR/Soda-Icon-Theme/blob/master/Screenshots/s1.png)
+![alt text](https://github.com/OguzhanDUYAR/Soda-Icon-Theme/blob/master/Screenshots/s4.png)
+![alt text](https://github.com/OguzhanDUYAR/Soda-Icon-Theme/blob/master/Screenshots/s2.png)
+![alt text](https://github.com/OguzhanDUYAR/Soda-Icon-Theme/blob/master/Screenshots/s5.png)
+![alt text](https://github.com/OguzhanDUYAR/Soda-Icon-Theme/blob/master/Screenshots/s3.png)
