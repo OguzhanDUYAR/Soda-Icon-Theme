@@ -5,7 +5,7 @@ Sexy, flat and a good icon theme.
 
 Copy the Milix Folder to the location specified below.
 
-Globally: /usr/share/icons/ or in your home folder : ~/.local/share/icons
+Globally: /usr/share/icons/ or in your home folder : ~/.local/share/icons or ~/.icons
 
 Soda İcon Theme is designed, developed & maintained by: Oguzhan DUYAR <oguzhan.duyar.ogresyus@gmail.com>
 Theme based on Flat Remix Icon Theme by: Daniel Ruiz de Alegría <daniruizdealegria@gmail.com> 
